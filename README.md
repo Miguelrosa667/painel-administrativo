@@ -33,13 +33,12 @@ Utilizamos a convenção **Block-Element-Modifier** para manter o CSS limpo e ev
 *   Exemplos aplicados: `.caixa-login`, `.sessao-login`, `.botao-esqueci`.
 
 ### Design e UX/UI
-O design foi inicialmente prototipado no **Figma** (conforme imagens image_9bfdc1.png e image_911cbe.png), focando em uma estética moderna. Priorizamos a experiência do usuário (UX) com navegação rápida e interface (UI) com cores sóbrias e tipografia legível.
+O design foi inicialmente prototipado no **Figma**, focando em uma estética moderna. Priorizamos a experiência do usuário (UX) com navegação rápida e interface (UI) com cores sóbrias e tipografia legível.
 
 ## Tecnologias Utilizadas
-*   HTML5 Semântico
-*   CSS3 (Variáveis `:root`, Flexbox e Grid)
+*   HTML 
+*   CSS 
 *   JavaScript
-*   **Sem frameworks externos**: Desenvolvimento 100% nativo para maior controle e performance.
 
 ## Desafios e Evolução
 O maior desafio foi a criação de um layout totalmente responsivo e funcional utilizando apenas CSS puro. Durante a evolução do projeto, refinamos os componentes para garantir que tabelas e gráficos se adaptassem perfeitamente a qualquer tamanho de tela.
