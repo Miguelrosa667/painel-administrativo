@@ -3,7 +3,7 @@
 ## Identificação
 *   **Aluno:** Miguel Rosa
 *   **Projeto:** Vellum
-*   **Segmento:** Comércio de Roupas
+*   **Segmento:** E-COMMERCE
 *   **Equipe:** Os mosqueteiros
 
 ## Sobre o Projeto
