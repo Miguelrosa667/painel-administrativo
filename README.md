@@ -2,9 +2,9 @@
 
 ## Identificação
 *   **Aluno:** Miguel Rosa
-*   **Projeto:** Painel Administrativo Web
+*   **Projeto:** Vellum
 *   **Segmento:** Comércio de Roupas
-*   **Equipe:** Vellum
+*   **Equipe:** Os mosqueteiros
 
 ## Sobre o Projeto
 Este projeto foi desenvolvido para atender a necessidade de gestão centralizada de uma loja de roupas masculina. O sistema substitui planilhas desestruturadas por uma interface intuitiva, focada na organização de dados e auxílio na tomada de decisão.
